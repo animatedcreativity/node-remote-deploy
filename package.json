@@ -1,6 +1,6 @@
 {
   "name": "node-remote-deploy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A module to sync files to remote server while you work on device or cloud platform of your choice like Glitch.",
   "main": "main.js",
   "scripts": {
