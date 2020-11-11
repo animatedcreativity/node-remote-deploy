@@ -26,6 +26,5 @@ exports = module.exports = function(config) {
       return mod.started;
     }
   };
-  mod.sync();
   return mod;
 };
