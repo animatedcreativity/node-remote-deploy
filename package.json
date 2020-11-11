@@ -1,0 +1,26 @@
+{
+  "name": "node-remote-deploy",
+  "version": "0.0.1",
+  "description": "A module to sync files to remote server while you work on device or cloud platform of your choice like Glitch.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "sftp-sync-deploy": "^0.8.0",
+    "node-promise-wrapper": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/animatedcreativity/node-remote-deploy"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "remote",
+    "deploy",
+    "sftp"
+  ]
+}
